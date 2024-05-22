@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # Prometheus
 
 [Prometheus](https://prometheus.io/) is an open-source monitoring and alerting system that provides insight into the state and history of a computer, application or cluster by storing defined metrics in a time-series database, and providing a powerful query language, PromQL, to help explore and understand the data.
